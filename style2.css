@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(84 76 101 / 55%);
+    background-image: url("hk.jpg");
+}
+.form{
+    max-width: 35%;
+    max-height: 40%;
+    margin: auto;
+    padding: 2rem;
+    
+    background-color: rgb(185, 156, 156);
+    font-weight: 100;
+    
+}
+input{
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 23px;
+}
+button{
+    background-color: rgb(174 174 228);
+    height: 2.5rem;
+    width: 10rem;
+    border-radius: 20px;
+
+}
